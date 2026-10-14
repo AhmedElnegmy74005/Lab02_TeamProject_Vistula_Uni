@@ -1,1 +1,1 @@
-# Lab02_MachineLearning_Vistula_Uni
+# Lab02_TeamProject_Vistula_Uni
